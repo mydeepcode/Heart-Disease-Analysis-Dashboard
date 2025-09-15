@@ -62,7 +62,8 @@ Healthcare providers need to **analyze survival rates and risk factors** among p
 🔍 **Full Dashboard Preview**
 The dashboard combines **medical insights with modern visual storytelling**, highlighting KPIs, risk indicators, and demographic analysis.
 
-🖼️ *\[Insert Dashboard Screenshot / Link]*
+🖼️**Here is the link:**
+[View Full Dashboard Image](https://github.com/mydeepcode/Heart-Disease-Analysis-Dashboard/blob/main/Heart%20Disease%20Analysis%20Dashboard.png)
 
 ---
 
